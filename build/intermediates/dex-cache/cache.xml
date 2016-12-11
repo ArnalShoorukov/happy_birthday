@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_dfd785a19d6194c61cc6d02ca44fae0be119e955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_636749414b15f1d5d93a7679eb5b99f98acf88b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_4322c54a930296d759bb198fae8e40a54e731ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d54c95d20b9a1d10e02e01191451d42f32af72a0">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_179d182d3a32ffd058fc3242911508be0b1184d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b3d2ede1c839be70284db24c4221ebf715e1d58c">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e009a0338d8f1dec91a1717790582e0af49d742f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_cfa48e5e6d86bfedfaf42f1b1b5a83915bbd6c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_6c9f52060ca30a529917ccc1110e5fea69fdb694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/arnal/AndroidStudioProjects/HappyBirthday1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_e3abc1b5fca4fcda3422381b7a6d3a4d525fd5fd/classes.dex" />
+    </item>
+
+</items>
